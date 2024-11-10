@@ -6,7 +6,7 @@
 ## 研究業績
 - 杉山 誠治, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 商品検索のための追加事前学習としての言い換えに基づく対照学習. <br>
-NLP若手の会第19回シンポジウム (YANS2024), September 2024.
+NLP若手の会第19回シンポジウム (YANS2024), September 2024. [[poster](https://github.com/SugiyamaSeiji/sugiyamaseiji/blob/main/src/2024yans.pdf)]
 
 ## 受賞
 - 2024年度 秋季 成績優秀者
