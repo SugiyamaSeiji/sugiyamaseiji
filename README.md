@@ -7,6 +7,9 @@
 - 杉山 誠治, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
 商品検索のための追加事前学習としての言い換えに基づく対照学習. <br>
 NLP若手の会第19回シンポジウム (YANS2024), September 2024. [[poster](https://github.com/SugiyamaSeiji/sugiyamaseiji/blob/main/src/2024yans.pdf)]
+- 杉山 誠治, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
+文対モデリングのための言い換えに基づく対照学習. <br>
+言語処理学会第31回年次大会, pp.3238-3242, March 2025. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-7.pdf)\]
 
 ## 受賞
 - 2024年度 秋季 成績優秀者
