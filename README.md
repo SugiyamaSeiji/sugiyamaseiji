@@ -11,6 +11,10 @@ NLP若手の会第19回シンポジウム (YANS2024), September 2024. [[poster](
 文対モデリングのための言い換えに基づく対照学習. <br>
 言語処理学会第31回年次大会, pp.3238-3242, March 2025. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-7.pdf)\]
 
+- Seiji Sugiyama, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
+Paraphrase-based Contrastive Learning for Sentence Pair Modeling.
+In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.xxx-xxx, New Mexico, USA, May 2025. (to appear)
+
 ## 受賞
 - 2024年度 秋季 成績優秀者
 - 2024年度 成績最優秀学生（3年次）
