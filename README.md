@@ -7,7 +7,7 @@
 ### 国際会議
 - Seiji Sugiyama, Risa Kondo, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Paraphrase-based Contrastive Learning for Sentence Pair Modeling.
-In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.400-407, New Mexico, USA, April 2025.
+In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.400-407, New Mexico, USA, April 2025. \[[PDF](https://aclanthology.org/2025.naacl-srw.39.pdf)\]
 
 ### 国内会議/ワークショップ
 - 杉山 誠治, 森岡 拓, 高山 隼矢, 梶原 智之. <br>
