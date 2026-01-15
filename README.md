@@ -10,6 +10,10 @@ Paraphrase-based Contrastive Learning for Sentence Pair Modeling.
 In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.400-407, New Mexico, USA, April 2025. \[[PDF](https://aclanthology.org/2025.naacl-srw.39.pdf)\]
 
 ### 国内会議/ワークショップ
+- 村上 彰悟, 杉山 誠治, 梶原 智之, 荒瀬 由紀. <br>
+言語学習履歴における問題文の構文的類似性を考慮した誤答予測<br>
+NLP若手の会第20回シンポジウム (YANS2025), September 2025.
+
 - 杉山 誠治, 森岡 拓, 高山 隼矢, 梶原 智之. <br>
 ehiMetrick: NLP2025自動評価ハックShared Task文法誤り訂正部門. <br>
 NLP2025ワークショップ LLM時代のことばの評価の現在と未来, March 2025. \[[PDF](https://drive.google.com/file/d/1fiRHiaBRME52vo0VFPWIfMPUTO8yswK0/view)\]
@@ -32,6 +36,8 @@ NLP若手の会第19回シンポジウム (YANS2024), September 2024. [[poster](
 ## 資格
 - TOEIC L&R 765点（Listening 375点, Reading 390点）, February 2024.
 
+## インターンシップ
+- 株式会社 レトリバ, August 12, 2025 – September 24, 2025. \[[blog](https://zenn.dev/retrieva_tech/articles/fa07c72b132921)\]\[[code](https://github.com/retrieva/instruction-following-retrieval)\]
 ## 開発
 - 100 Program 第4期生 <br>
-コーヒーx画像処理 ハンドピッキングの負担を軽減するデバイス
+コーヒーx画像処理 ハンドピッキングの負担を軽減するデバイス \[[demo](https://github.com/SugiyamaSeiji/coffee_picking_machine)\]
