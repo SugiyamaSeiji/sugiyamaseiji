@@ -10,6 +10,22 @@ Paraphrase-based Contrastive Learning for Sentence Pair Modeling.
 In Proceedings of the NAACL 2025 Student Research Workshop (NAACL 2025 SRW), pp.400-407, New Mexico, USA, April 2025. \[[PDF](https://aclanthology.org/2025.naacl-srw.39.pdf)\]
 
 ### 国内会議/ワークショップ
+- 勝又 智, 杉山 誠治.
+指示文書による検索意図の変化を考慮した指示追従検索モデルの学習.
+言語処理学会第32回年次大会, pp.xxx-xxx, March 2026. [to appear]
+
+- 堀口 航輝, 杉山 誠治, 梶原 智之, 若宮 翔子, 荒牧 英治.  
+JMedWiC：日本語医療分野の語義同一性判定データセット.  
+言語処理学会第32回年次大会, pp.xxx-xxx, March 2026. [to appear]
+
+- 戸田 裕子, 名本 雅弘, 小山 将生, 迫田 武, 杉山 誠治, 西原 大貴, 梶原 智之, 二宮 崇, 後藤 功雄
+否定表現を含む検索における大規模言語モデルを用いたクエリ拡張.
+情報処理学会第88回全国大会 (IPSJ), March 2026.
+
+- 杉山 誠治, 花房 健太郎, 梶原 智之.
+マルチモーダル楽曲検索のための英日クロスリンガル対照学習.
+情報処理学会第88回全国大会 (IPSJ), March 2026.
+
 - 村上 彰悟, 杉山 誠治, 梶原 智之, 荒瀬 由紀. <br>
 言語学習履歴における問題文の構文的類似性を考慮した誤答予測<br>
 NLP若手の会第20回シンポジウム (YANS2025), September 2025.
